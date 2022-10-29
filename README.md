@@ -16,38 +16,30 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+I) install git
 
-1.install git, if you already have git installed skip this step.
+II) open the terminal
 
-2.open command terminal
+III) change to the directory to which the remote directory shall be cloned to
 
-3.navigate to the directory you want remote directory to be cloned to
+IV) copy the url link from the git hub of the repo and clone it into the directory
 
-4.go to the git hub and copy HTTPS url of the repository
-
-5.clone the repository by typing git clone "HTTPS url copied in step4"
-
-6.Hit enter in the keyboard
-
-7.navigate to the copy of your cloned repository using cd command
+V) change diectory to the created folder
 
 ### Prerequisites
 
-    -you need a basic knowdlenge on HTML, CSS and the code editor of your choice.
-
-    -you need basic knowlege of the computer operating system of your choice
+    -Requi basic knowdledge and understanding  on HTML, CSS and any prefered IDE.
 
 ### Install
 
--install git and code editor of your choice
+-install git and and prefered IDE eg VS CODE
 
 ## Author
 
-👤 **Kalungi Bobson**
+👤 **Kalungi J Bobson**
 
 - GitHub: [@githubhandle](https://github.com/KALUNGI-J-BOBSON)
-- Twitter: [@twitterhandle](https://twitter.com/KALUNGI-J-BOBSON)
+- Twitter: [@twitterhandle](https://twitter.com/KALUNGIBOBONJ)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/KALUNGI-J-BOBSON)
 
 ## 🤝 Contributing
